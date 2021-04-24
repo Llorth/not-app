@@ -17,7 +17,7 @@ namespace DersNotKayıt
             InitializeComponent();
         }
         public string numara;
-
+        // git 3
         SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-5QT0LF3\SQLEXPRESS;Initial Catalog=DersNotKayıt;Integrated Security=True");
         private void FrmOgrDetay_Load(object sender, EventArgs e)
         {

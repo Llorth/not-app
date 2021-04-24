@@ -54,7 +54,7 @@ namespace DersNotKayıt
         {
 
         }
-
+        // git için deneme
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             int secim = dataGridView1.SelectedCells[0].RowIndex;
