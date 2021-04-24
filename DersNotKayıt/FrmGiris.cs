@@ -34,6 +34,8 @@ namespace DersNotKayıt
             }
         }
 
+        //test
+
         private void FrmGiris_Load(object sender, EventArgs e)
         {
 
